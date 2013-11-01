@@ -61,7 +61,7 @@ div#topo .acoes{
 
 .titulo-modulo-aula span {color: #187298;font-size: 15px;vertical-align: baseline;}
 
-div#conteudo{display:inline; width: 788px;float:left;margin-top: 10px;}
+div#conteudo{display:inline; width: 788px;float:left;margin-top: 10px;background:#fff;}
 div#box-esq{color: #999999;float: left;font-family: inherit;width: 155px;display:inline;}
 
 div#box-menu{float: left;width: 100%;}
